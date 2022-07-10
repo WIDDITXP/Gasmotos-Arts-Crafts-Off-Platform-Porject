@@ -6,3 +6,11 @@ h1 {
     text-align: center;
     background-image: src="pattern.jpeg"
 }
+
+.brushes h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
