@@ -31,6 +31,10 @@ h1 {
     background-color: skyblue;
 }
 
+h3 {
+    font-family: Helvetica;
+}
+
 p {
     font-family: Helvetica;
 }
@@ -40,3 +44,4 @@ a {
     font-weight: bold;
     color: blue;
 }
+
